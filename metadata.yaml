@@ -1,0 +1,27 @@
+_repo: L-apparition_71658
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Delarue-Mardrus, Lucie
+    gutenberg_agent_id: '56317'
+    url: http://www.gutenberg.org/2009/agents/56317
+description: ''
+gutenberg_issued: '2023-09-15'
+identifiers:
+  gutenberg: '71658'
+language: fr
+pgterms:marc904: https://archive.org/details/DelarueMardrusLApparition
+pgterms:marc905: 20220725103838delaruemar
+pgterms:marc906: '1921'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aParis :$bFerenczi, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'apparition
+url: http://www.gutenberg.org/ebooks/71658
